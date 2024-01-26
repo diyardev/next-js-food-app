@@ -1,3 +1,3 @@
 # next-js-food-app
  
-[Demo Videosu](https://github.com/diyardev/next-js-food-app/assets/30293391/283391b6-3d24-4bad-a1eb-56d7777129aa)
+[demo.webm](https://github.com/diyardev/next-js-food-app/assets/30293391/c87a9091-03b9-4dd3-b6f7-cf282bd33637)
